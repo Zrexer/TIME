@@ -7,4 +7,4 @@ pkg install git &&
 git clone https://github.com/Zrexer/TIME && 
 cd TIME && 
 pip3 install -r requirements.txt &&
-python run.py 
+python run_for_t.py 
